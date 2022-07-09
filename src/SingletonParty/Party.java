@@ -2,8 +2,8 @@ package SingletonParty;
 
 import PlayerStrategy.Healer;
 import PlayerStrategy.Killer;
-import PlayerStrategy.Player;
 import PlayerStrategy.Tank;
+import PlayerStrategy.Player;
 
 public class Party {
     private static Party party;
